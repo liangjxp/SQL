@@ -1,3 +1,5 @@
 # Default ignored files
 /workspace.xml
-JDBC学习
+
+# Datasource local storage ignored files
+/dataSources/
