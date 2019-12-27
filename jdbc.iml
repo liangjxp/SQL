@@ -21,5 +21,6 @@
     </orderEntry>
     <orderEntry type="library" name="mariadb-java-client-2.5.2" level="project" />
     <orderEntry type="library" name="Maven: Arquillian JUnit:Release" level="project" />
+    <orderEntry type="library" name="c3p0-0.9.5.5" level="project" />
   </component>
 </module>
